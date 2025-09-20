@@ -1,0 +1,32 @@
+.team__center
+{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.team__center-info-title
+{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 110%;
+    margin-bottom: 20px;
+    margin-top: 120px;
+}
+
+.team__center-info-text
+{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    color: #2c2d35;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.team__center-info-imgs
+{
+    display: flex;
+    gap: 30px;
+}
