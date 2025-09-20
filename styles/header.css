@@ -1,0 +1,32 @@
+.header__center
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.header { background-color: #D4E8D9; }
+
+.header__center-nav
+{
+    display: flex;
+    gap: 60px;
+}
+
+.header__center-nav-a
+{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: #2c2d35;
+    cursor: pointer;
+}
+
+.header__center-nav-a:hover
+{
+    scale: 0.95;
+    color: white;
+    background-color: #376B44;
+    border-radius: 7px;
+}
