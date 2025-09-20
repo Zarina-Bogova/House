@@ -1,0 +1,27 @@
+.hero__center
+{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.hero { margin-bottom: 69px;}
+
+.hero__center-info-title
+{
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 110%;
+    color: #2c2d35;
+    margin-bottom: 20px;
+}
+
+.hero__center-info-text
+{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    color: #86928b;
+    margin-bottom: 60px;
+    display: block;
+}
